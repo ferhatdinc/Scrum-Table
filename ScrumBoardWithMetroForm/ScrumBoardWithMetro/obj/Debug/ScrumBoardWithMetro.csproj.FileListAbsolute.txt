@@ -1,0 +1,100 @@
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.exe.config
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.exe
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.pdb
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\MetroFramework.Design.dll
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\MetroFramework.dll
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csprojResolveAssemblyReference.cache
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.Properties.Resources.resources
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.GenerateResource.cache
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.CoreCompileInputs.cache
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.CopyComplete
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.exe
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.pdb
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmMain.resources
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmStoryEkle.resources
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmTaskEkle.resources
+C:\Users\HasanBerkErgun\Documents\Visual Studio 2017\Projects\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmSplashScreen.resources
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.exe.config
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.exe
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.pdb
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\MetroFramework.Design.dll
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\MetroFramework.dll
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csprojResolveAssemblyReference.cache
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmMain.resources
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmSplashScreen.resources
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmStoryEkle.resources
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmTaskEkle.resources
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.Properties.Resources.resources
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.GenerateResource.Cache
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.CoreCompileInputs.cache
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.exe
+C:\Users\ferha\Downloads\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.pdb
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.exe.config
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.exe
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.pdb
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\MetroFramework.Design.dll
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\MetroFramework.dll
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csprojResolveAssemblyReference.cache
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmMain.resources
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmSplashScreen.resources
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmStoryEkle.resources
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmTaskEkle.resources
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.Properties.Resources.resources
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.GenerateResource.cache
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.CoreCompileInputs.cache
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.CopyComplete
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.exe
+C:\Users\HasanBerkErgun\Desktop\Proje Son Hal\ScrumBoardWithMetroV1.0\ScrumBoardWithMetroSS\ScrumBoardWithMetro\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.pdb
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.exe.config
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.exe
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.pdb
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\MetroFramework.Design.dll
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\MetroFramework.dll
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csprojResolveAssemblyReference.cache
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmMain.resources
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmSplashScreen.resources
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmStoryEkle.resources
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmTaskEkle.resources
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.Properties.Resources.resources
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.GenerateResource.cache
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.CoreCompileInputs.cache
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.CopyComplete
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.exe
+C:\Users\HasanBerkErgun\Desktop\Test\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.pdb
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.exe.config
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.exe
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.pdb
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\MetroFramework.Design.dll
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\MetroFramework.dll
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csprojResolveAssemblyReference.cache
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmMain.resources
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmSplashScreen.resources
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmStoryEkle.resources
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmTaskEkle.resources
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.Properties.Resources.resources
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.GenerateResource.cache
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.CoreCompileInputs.cache
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.CopyComplete
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.exe
+C:\Users\HasanBerkErgun\Desktop\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.pdb
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.exe.config
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.exe
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\ScrumBoardWithMetro.pdb
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\MetroFramework.Design.dll
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\MetroFramework.dll
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csprojResolveAssemblyReference.cache
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmMain.resources
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmSplashScreen.resources
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmStoryEkle.resources
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.frmTaskEkle.resources
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.Properties.Resources.resources
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.GenerateResource.Cache
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.csproj.CoreCompileInputs.cache
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.exe
+C:\Users\ferha\Downloads\Proje Last\Proje Last\ScrumBoardWithMetroV1.00\ScrumBoardWithMetroSS\ScrumBoardWithMetroForm\ScrumBoardWithMetro\obj\Debug\ScrumBoardWithMetro.pdb
